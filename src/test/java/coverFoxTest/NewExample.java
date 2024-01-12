@@ -2,9 +2,11 @@ package coverFoxTest;
 
 public class NewExample {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 		System.out.println("Hii it's another class");
+		System.out.println("Reporter");
 
 	}
 
